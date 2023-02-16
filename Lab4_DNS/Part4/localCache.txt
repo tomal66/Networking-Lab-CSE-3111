@@ -1,0 +1,4 @@
+google.com  192.0.3.3 A  86400
+ajaira.com  192.0.100.3 A  86400
+cannotsleep.com  100.2.2.3 A  86400
+cse.du.ac.bd  192.0.2.3  A  86400

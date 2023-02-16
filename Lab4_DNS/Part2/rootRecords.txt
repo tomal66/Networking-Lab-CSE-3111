@@ -1,0 +1,5 @@
+Name                Value                   Type    TTL
+bd                  127.0.0.1               NS      86400
+com                 127.0.0.1               NS      86400
+net                 127.0.0.1               NS      86400
+edu                 127.0.0.1               NS      86400
